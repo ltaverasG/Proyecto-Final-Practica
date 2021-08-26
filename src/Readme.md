@@ -9,8 +9,8 @@ De este logre crear cuentas de usuarios, de las cuales estas se almacenan en el 
 De las funcionalidades tenemos la creacion de los usuarios. "estos almacenados en el firebase y la creacion de las publicaciones pero estas se almacenan localmente, no logre establecer la conexion con el firebase.
 
 Adjuntando las imagenes veremos lo anterior comentado.
-    
+
 ![Captura usuarios](capturaUsuario.PNG)    
-![Captura Firebase Usuarios](Capturafirebase.PNG)
+![Captura Firebase Usuarios](CapturaFirebase.PNG)
 ![Captura Creacion de publicacion](IngresoPublicacion.PNG)
 ![Resultado Publicacion](ResultadoPublicacion.PNG)
