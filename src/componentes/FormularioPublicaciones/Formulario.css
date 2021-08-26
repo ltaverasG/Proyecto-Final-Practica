@@ -1,0 +1,19 @@
+.formularioPublicacion input[type ="text"]{
+    padding: 20 px;     
+    text-align: center;
+}
+
+.formularioPublicacion button{
+    padding:5px;
+    color: #fff;
+    background: #0D94C6 ;
+    border: none;
+    border-radius: 20px;
+    padding-left: 20px;
+    color: black;
+} 
+
+.formularioPublicacion button:hover{
+    background-color: #37C9FF;
+    color: white;    
+}
